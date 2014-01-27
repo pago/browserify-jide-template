@@ -1,0 +1,26 @@
+{
+  "name": "browserify-jide-template",
+  "version": "1.0.0",
+  "author": "Patrick Gotthardt, <patrick@pagosoft.com>",
+  "license": "MIT",
+  "description": "A Browserify transform for jide.js templates.",
+  "keywords": [
+    "browserify",
+    "transform",
+    "browserify-transform",
+    "jide",
+    "jidejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pago/browserify-jide-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pago/browserify-jide-template/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "browserify-transform-tools": "~1.2.1",
+    "cheerio": "~0.13.1"
+  }
+}
